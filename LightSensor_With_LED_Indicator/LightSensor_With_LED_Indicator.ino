@@ -15,9 +15,5 @@ void loop(){
     digitalWrite(greenPin, LOW);
     digitalWrite(redPin, HIGH);
   }
-  
-  /*digitalWrite(redPin, HIGH);
-  digitalWrite(greenPin, HIGH);*/
-  
 }
 
